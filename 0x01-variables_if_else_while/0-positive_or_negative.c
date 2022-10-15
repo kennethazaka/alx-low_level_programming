@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry point
+ *
+ * Description: some stuff
  *
  * Return: Always 0 (Success)
  *
